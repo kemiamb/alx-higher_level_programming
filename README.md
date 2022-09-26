@@ -2,7 +2,7 @@
 
 ![python](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/231/48a9fdbd67c84a328a9df9ec8d93b9ac2458ac37721d7d53e51a27fb2bdc5263.jpg)
 
-##Author’s disclaimer
+## Author’s disclaimer
 
 ```
 Welcome to the Python world!
@@ -17,9 +17,9 @@ Enjoy!
 - Guillaume
 ```
 
-##Requirements
+## Requirements
 
-###Python Scripts
+### Python Scripts
 
 ```
 Allowed editors: vi, vim, emacs
@@ -33,7 +33,7 @@ All your files must be executable
 The length of your files will be tested using wc
 ```
 
-###Shell Scripts
+### Shell Scripts
 
 ```
 Allowed editors: vi, vim, emacs
@@ -55,9 +55,9 @@ Don’t forget to push your header file
 All your header files should be include guarded
 
 ```
-##More Info
+## More Info
 
-###Zen
+### Zen
 
 ```
 The Zen of Python, by Tim Peters
@@ -82,5 +82,5 @@ If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 ```
-##Pycodestyle
+## Pycodestyle
 `Pycodestyle` is now the [new standard of Python style code](https://pypi.org/project/pycodestyle/)
