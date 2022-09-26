@@ -3,6 +3,7 @@
 ![python](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/231/48a9fdbd67c84a328a9df9ec8d93b9ac2458ac37721d7d53e51a27fb2bdc5263.jpg)
 
 ##Author’s disclaimer
+
 ```
 Welcome to the Python world!
 
@@ -17,7 +18,9 @@ Enjoy!
 ```
 
 ##Requirements
+
 ###Python Scripts
+
 ```
 Allowed editors: vi, vim, emacs
 All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
@@ -31,6 +34,7 @@ The length of your files will be tested using wc
 ```
 
 ###Shell Scripts
+
 ```
 Allowed editors: vi, vim, emacs
 All your scripts will be tested on Ubuntu 20.04 LTS
@@ -52,7 +56,9 @@ All your header files should be include guarded
 
 ```
 ##More Info
+
 ###Zen
+
 ```
 The Zen of Python, by Tim Peters
 
