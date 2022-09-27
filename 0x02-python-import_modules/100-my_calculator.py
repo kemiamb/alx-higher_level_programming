@@ -1,7 +1,4 @@
 #!/usr/bin/python3
-from itertools import count
-
-
 if __name__ == "__main__":
     import sys
 
